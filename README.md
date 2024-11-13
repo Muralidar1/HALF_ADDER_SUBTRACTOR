@@ -62,6 +62,9 @@ endmodule
 
 
 Developed by:Muralidar RegisterNumber:24900233
+![66087de5-c038-44ab-a780-8721db5c0b08](https://github.com/user-attachments/assets/e0afecc8-96ed-4b60-9a90-479054a0b336)
+
+![ec4bf4af-1479-45c7-99fe-72a1a0f00207](https://github.com/user-attachments/assets/a6d3fc6e-494d-4186-bfcf-e6293428cc5c)
 
 **RTL Schematic**
 
